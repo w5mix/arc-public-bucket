@@ -1,0 +1,14 @@
+{
+  "name": "arc-public-bucket",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.14.2"
+  },
+  "dependencies": {
+    "@architect/plugin-storage-public": "^1.0.1"
+  }
+}
